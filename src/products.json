@@ -1,0 +1,62 @@
+[
+  {
+    "productId": 1,
+    "productName": "Veg Rolls",
+    "description": "Good for vegetarians",
+    "stock": true
+  },
+  {
+    "productId": 2,
+    "productName": "Chicken Manchurian",
+    "description": "Preferred by non-vegetarians",
+    "stock": true
+  },
+  {
+    "productId": 3,
+    "productName": "Noodles",
+    "description": "Comes under snacks",
+    "stock": false
+  },
+  {
+    "productId": 4,
+    "productName": "Paneer Tikka",
+    "description": "Popular vegetarian starter",
+    "stock": true
+  },
+  {
+    "productId": 5,
+    "productName": "Grilled Sandwich",
+    "description": "Light and crispy snack",
+    "stock": true
+  },
+  {
+    "productId": 6,
+    "productName": "Chicken Burger",
+    "description": "Juicy patty with fresh veggies",
+    "stock": false
+  },
+  {
+    "productId": 7,
+    "productName": "French Fries",
+    "description": "Crispy fried potato strips",
+    "stock": true
+  },
+  {
+    "productId": 8,
+    "productName": "Masala Dosa",
+    "description": "South Indian classic",
+    "stock": true
+  },
+  {
+    "productId": 9,
+    "productName": "Cold Coffee",
+    "description": "Refreshing iced coffee",
+    "stock": false
+  },
+  {
+    "productId": 10,
+    "productName": "Spring Rolls",
+    "description": "Crispy appetizer filled with veggies",
+    "stock": true
+  }
+]
