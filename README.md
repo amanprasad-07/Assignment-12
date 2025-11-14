@@ -21,6 +21,7 @@ This assignment demonstrates understanding of Express routing, controllers, midd
 ---
 
 ## 📁 Project Structure
+```
 assignment-12/
 ├── src/
 │ ├── server.js
@@ -31,7 +32,8 @@ assignment-12/
 │ ├── inventoryMiddleware/
 │ │ └── inventoryMiddleware.js
 │ └── products.json
-└── README.md
+└── README.md 
+```
 
 
 - **server.js** → Entry point of the application  
@@ -176,4 +178,5 @@ Screenshots of each endpoint tested in Postman.
 Aman Prasad
 
 GitHub:[amanprasad-07](https://github.com/amanprasad-07) 
+
 
