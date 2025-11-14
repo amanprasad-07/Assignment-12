@@ -23,16 +23,22 @@ This assignment demonstrates understanding of Express routing, controllers, midd
 ## 📁 Project Structure
 ```
 assignment-12/
-├── src/
-│ ├── server.js
-│ ├── routes/
-│ │ └── inventoryRoutes.js
-│ ├── controllers/
-│ │ └── inventoryController.js
-│ ├── inventoryMiddleware/
-│ │ └── inventoryMiddleware.js
-│ └── products.json
-└── README.md 
+ ├── src/
+ │   ├── server.js
+ │   ├── routes/
+ │   │   └── inventoryRoutes.js
+ │   ├── controllers/
+ │   │   └── inventoryController.js
+ │   ├── inventoryMiddleware/
+ │   │   └── inventoryMiddleware.js
+ │   └── products.json
+ ├── screenshots/
+ │   ├── get.png
+ │   ├── post.png
+ │   ├── deleteProduct.png
+ │   ├── put.png
+ │   └── patch.png
+ └── README.md
 ```
 
 
@@ -178,5 +184,6 @@ Screenshots of each endpoint tested in Postman.
 Aman Prasad
 
 GitHub:[amanprasad-07](https://github.com/amanprasad-07) 
+
 
 
