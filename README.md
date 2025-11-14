@@ -48,7 +48,7 @@ assignment-12/
 npm install
 
 ### 2️⃣ Start the server
-node src/server.js
+npm start
 
 ### 3️⃣ Server runs at:
 http://localhost:3003
@@ -176,3 +176,4 @@ Screenshots of each endpoint tested in Postman.
 Aman Prasad
 
 GitHub:[amanprasad-07](https://github.com/amanprasad-07) 
+
